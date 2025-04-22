@@ -1,0 +1,33 @@
+#selecter textarea {
+    background-color: rgb(80, 80, 80);
+    color: white;
+    border-color: rgb(34, 34, 34);
+    padding: 5px;
+    border-radius: 5px;
+    resize: none;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#selecter button {
+    color:white;
+    background-color: rgb(139, 204, 42);
+    font-size: 18px;
+    border-radius: 5px;
+    border-color: transparent;
+    margin-top: 12px;
+}
+
+#num_select {
+    margin-top: 12px;
+}
+
+#num_select input{
+    background-color: rgb(80, 80, 80);
+    color: white;
+    border-radius: 5px;
+    border-color: rgb(34, 34, 34);
+    border-style: solid;
+    width: 30px;
+    text-align: center;
+}
